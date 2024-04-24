@@ -1,2 +1,2 @@
 # MNIST-DNN
-A deep neural network for MNIST classification using PyTorch.
+- A deep neural network for MNIST classification using PyTorch.
