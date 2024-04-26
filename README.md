@@ -6,4 +6,4 @@
 - Python 3.8 or higher
 # How to Use
 1. Download and extract the files.
-2. Open the folder in your IDE and execute each cell in the mnist_dnn.ipynb notebook sequentially.
+2. 
