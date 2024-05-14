@@ -3,10 +3,10 @@
 # Project Overview
 - The goal of this project is to train a deep neural network (DNN) to recognize and classify handwritten digits from the MNIST dataset.
 # Project Result
-- Accuracy score: 98.07%
-- Precision score: 98.07%
-- Recall score: 98.07%
-- F1 score: 98.07%
+- Accuracy score: `98.07%`
+- Precision score: `98.07%`
+- Recall score: `98.07%`
+- F1 score: `98.07%`
 # Requirement
 - Python 3.8 or higher
 # How to Use the Model
